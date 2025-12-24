@@ -18,3 +18,9 @@ Para ejecutar el programa usa Python normalmente. Si estás en Windows, abre un 
 Cuando el bot se conecte correctamente, en tu terminal verás un mensaje como “Bot conectado como…”. También verás que el programa empieza a cargar los emojis de los servidores donde esté el bot. La interfaz gráfica se abrirá mostrando el constructor de embeds. Si todo está correcto, cuando presiones el botón “ENVIAR EMBED”, el mensaje se agregará a una cola y el hilo del bot lo enviará al canal cuyo ID ingresaste al inicio.
 
 Si necesitas cambiar de canal, basta cerrar el programa, volver a ejecutarlo y escribir un nuevo ID en la ventana inicial. Si necesitas cambiar de bot, simplemente cambia el token en la línea de código correspondiente. No necesitas hacer ninguna otra configuración interna.
+
+<p align="center">
+  <img width="1395" height="827" alt="screenshot"
+       src="https://github.com/user-attachments/assets/acc39f33-ceac-4e8f-9e8a-a3ea610793aa" />
+</p>
+
